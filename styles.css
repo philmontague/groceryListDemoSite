@@ -1,0 +1,27 @@
+body {
+
+}
+
+h1 {
+    border: 1px dashed black;
+}
+
+.grocery-category-pantry {
+    border: 1px dashed black;
+}
+
+.category-heading {
+    border: 1px dashed black;
+}
+
+.sub-category-heading {
+    border: 1px dashed black;
+}
+
+.grocery-category-freezer{
+    border: 1px dashed black;
+}
+
+footer {
+    border: 1px dashed black;
+}
