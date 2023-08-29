@@ -6,7 +6,7 @@ h1 {
     border: 1px dashed black;
 }
 
-.grocery-category-pantry {
+.grocery-category-main {
     border: 1px dashed black;
 }
 
@@ -15,10 +15,6 @@ h1 {
 }
 
 .sub-category-heading {
-    border: 1px dashed black;
-}
-
-.grocery-category-freezer{
     border: 1px dashed black;
 }
 
