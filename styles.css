@@ -37,7 +37,7 @@ h1 {
     flex: 1;
     border-right: none; 
     padding: 30px; 
-    border: 1px solid lightgreen; 
+    border: 1px solid lavender; 
     margin-right: 20px;
 }
 
@@ -49,7 +49,7 @@ h1 {
     height: 200px; 
     width: 200px; 
     padding: 10px; 
-    border: 1px solid lightgreen;
+    border: 1px solid lavender;
 }
 
 .sub-category-image img {
